@@ -1,0 +1,32 @@
+Arguments: 
+  D:\Programs\nodejs\node.exe C:\Users\jrapier\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js init
+
+PATH: 
+  C:\Users\jrapier\bin;D:\Programs\Git\mingw64\bin;D:\Programs\Git\usr\local\bin;D:\Programs\Git\usr\bin;D:\Programs\Git\usr\bin;D:\Programs\Git\mingw64\bin;D:\Programs\Git\usr\bin;C:\Users\jrapier\bin;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client;C:\Program Files\Intel\iCLS Client;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;D:\Programs\nodejs;C:\Users\jrapier\AppData\Local\Microsoft\WindowsApps;D:\Programs\Microsoft VS Code\bin;C:\Users\jrapier\AppData\Roaming\npm;D:\Programs\Git\usr\bin\vendor_perl;D:\Programs\Git\usr\bin\core_perl
+
+Yarn version: 
+  1.0.0
+
+Node version: 
+  8.4.0
+
+Platform: 
+  win32 x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Can't answer a question unless a user TTY
+      at ConsoleReporter.question (C:\Users\jrapier\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:85265:59)
+      at Object.<anonymous> (C:\Users\jrapier\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:79899:38)
+      at Generator.next (<anonymous>)
+      at step (C:\Users\jrapier\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:92:30)
+      at C:\Users\jrapier\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:103:13
+      at <anonymous>
